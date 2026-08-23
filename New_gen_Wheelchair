@@ -1,0 +1,152 @@
+	
+
+
+
+
+	
+
+CLASS PARTICIPATION COVERSHEET
+Unit of Study: 	 MIT653 Research Methods
+Assignment Title: 	 Class Participation – Week 04
+Semester and Year:   Trimester 2, 2026
+Lecturer Name:          Dr. Sudath Heiyanthuduwage
+
+DECLARATION
+The work contained in this assignment is my own work and has not been copied from other sources or been previously submitted, unless otherwise specifically acknowledged. 
+I understand that failure to comply can lead to severe penalties. 
+
+Student Identification: S20250107
+Student Name: Manjil Shrestha
+Date Submitted: 8/23/2026
+Signed: Manjil Shrestha     
+
+
+
+
+ 
+
+
+Next-Generation AI Smart Wheelchair Literature Review.
+
+1. Introduction
+For those with limited walking ability and/or mobility, wheelchairs are a vital assistive technology. A traditional powered wheelchair is normally controlled by a joystick. But for some users, it is challenging to use a joystick due to reduced mobility or other physical impairments. The problems are solved by introducing smart wheelchairs which have sensors, computer and intelligent software.
+
+Artificial Intelligence (AI), machine learning, computer vision, sensors and Generative AI can make the movement of a next-generation AI smart wheelchair safer and easier. The wheelchair is able to sense obstacles, to be aware of its environment, and to navigate to a safe location; it can also interpret various forms of command issued by its rider. For instance, a user might use the command, “Take me to the library” and the system may interpret the command and generate a proper route to the library.
+The purpose of this literature review is to answer the following research question:
+How can AI, sensors, computer vision and Generative AI be integrated together to create a smart wheelchair that is safer, more autonomous and user-friendly?
+
+ 2. The purpose and aim of the literature review will be presented.
+
+This literature review aims at gaining insight into the state of the art in smart and intelligent wheelchairs, and to explore some of the available technologies to be applied when designing a next generation AI wheelchair.
+
+The main aims are:
+
+•	To explore the current smart wheelchair technologies.
+•	To learn about the use of AI in navigation and obstacle avoidance.
+•	To investigate the application of cameras, LiDAR and ultrasonic sensors.
+•	To explore ways of controlling the user, including voice, gesture and eye tracking.
+•	To explore the potential for using Generative AI and Large Language Models (LLMs).
+•	To determine the common research gaps and limitation.
+•	To determine how existing research can help answer the research question.
+ 
+ 3. Literature Review Process
+
+Key words used in the literature search were “smart wheelchair,” “intelligent wheelchair,” “AI wheelchair,” “autonomous wheelchair,” “machine learning,” “deep learning,” “computer vision,” “obstacle avoidance,” “path planning,” “Generative AI,” “Large Language Model,” “voice control,” and “eye tracking.”
+
+A search that could be combined would be:
+("smart wheelchair" OR "intelligent wheelchair") AND ("artificial intelligence" OR "machine learning" OR "Generative AI") AND ("navigation" OR "obstacle avoidance")
+
+IEEE Xplore, Scopus, ScienceDirect, PubMed, SpringerLink and Google Scholar were taken into consideration as academic databases. Peer-reviewed journal articles, conference papers, review papers and relevant academic research were included.
+
+Only papers that were related to smart/ intelligent wheelchairs, AI based navigation, obstacle detection, machine learning, computer vision, human-machine interaction or accessibility were included. The date of the research was a preference; older papers may be included when they provide important background information.
+4. Selected literature and key insights.
+1. Smart Wheelchairs: Leaman and La – A Comprehensive Review.
+
+This paper presents the overview of the development of smart wheelchair. It covers the topics of sensors, navigation, control and assistive technologies. Smart wheelchairs are demonstrated to enhance independence and safety by the authors. One major challenge is the difficulty of reliably operating in different real world environments. This paper gives a significant background about the development of smart wheelchairs.
+
+2. This is the Nguyen et al. paper on Bayesian Neural Network for Obstacle Avoidance.Nguyen et al. 
+
+The laser range finder and a Bayesian neural network were used in this research for obstacle avoidance. The neural network was used to help the wheelchair determine how to avoid obstacles. The findings indicate the potential of using AI in real-time wheelchair navigation. It does not primarily provide global information about the environment, but it mainly works on obstacle avoidance.
+
+3. An Intelligent wheelchair with Situation awareness and Obstacle detection.
+
+This study employed camera and ultrasonic sensors to identify obstacles and to grasp the environment of the wheelchair. The study demonstrates the value of integration of various sensors. One drawback is that older computer vision techniques might not be as effective as newer deep learning-based systems.
+
+4. WNSDP is an application that allows people with disabilities or the elderly to navigate with a wheelchair using a computer.
+
+In this research, the vision sensors and ultrasonic sensors were used together in navigation. The system may be able to identify different environments and draw paths around obstacles. It shows that sensor information and machine learning can enhance navigation. But additional testing is required in complex and congested settings.
+
+5. Robotic Intelligent Wheelchair System
+
+In this study, a robotic wheelchair was developed which has obstacle avoidance and navigation capabilities. The planned destinations were accessed and obstacles avoided with the wheelchair. This research is in favor of the concept of autonomous wheelchair navigation. But the system was predominantly a pre-programmed navigation system.
+
+6. The advent of AI is reshaping the future of wheelchair navigation and control.AI is changing the landscape of wheelchair navigation and control.
+
+This review has explored the use of artificial intelligence in the field of wheelchair navigation and control. It discovered that by utilizing machine learning and computer vision coupled with path planning techniques, wheelchair safety and independence could be enhanced. Reliability, cost and real-world implementation were identified as challenges in the research.
+
+7. Intelligent wheelchair control in the context of evolution and emerging trends.Evolution and emerging trends in Intelligent Wheelchair Control.
+
+This study focused on the intelligent control of wheelchairs and examined the various approaches, such as machine learning, reinforcement learning, and sensor fusion/human-machine interfaces. It demonstrates the potential for adapting the control of wheelchairs with modern AI. Worthy of note are certain shortcomings: energy consumption, computing requirements, and reliable operation in the event of an unexpected situation.
+
+8. Gestures can be used for the navigation of smart wheelchairs.Gestures can be used to navigate smart wheelchairs.
+
+This review was of the literature concerning wheelchair control using gestures. The use of gestures to maneuver wheelchairs, rather than a joystick, is possible thanks to computer vision, IMU sensors and others. It is helpful for those who find it difficult to use conventional control devices. But there are also lighting, motion and user variations that can impact gesture recognition.
+
+9. AWU-DRL+LLM is the autonomous wheelchair using deep reinforcement learning and languge model.
+
+This recent research investigated combining deep reinforcement learning, an LLM and iris tracking. High level decision making can be provided by the LLM while navigation can be provided by reinforcement learning. This research is especially applicable to a next generation AI wheelchair. The system would require further field trials, though, before it can be used safely.
+
+10. OmniAcc – Personalised Accessibility Assistant via the power of Generative AI
+
+This research sought to explore the accessibility and navigation aspect of Generative AI. Utilized Generative AI in conjunction with map and location data to find available routes. As AI has the potential to offer more personalized support than just obstacle avoidance, this demonstration indicates its broader capabilities. Accessibility information, however, should never be outdated and incorrect.
+
+5. Common Themes
+A few themes are found throughout the research.
+Obstacle Avoidance
+Most of the smart wheelchair research is directed towards obstacle detection and avoidance. Sensors such as LiDAR, ultrasonic sensors and cameras are commonly used.
+Autonomous Navigation
+Researchers are working on the next generation of wheelchairs; those that automatically navigate without constant joystick control. The wheelchair should be able to know where it is, what is the goal and what is around it.
+Sensor Fusion
+Multiple sensors can be used together to provide a more reliable measurement. For instance, cameras can give visual information, LiDAR and ultrasonic sensors can give distance information.
+User-Friendly Control
+Alternatives to a traditional joystick can be found using voice, gestures, eye tracking and other control methods.
+Artificial Intelligence
+Machine Learning and Deep Learning can assist in object detection, interpretation of the environment and decision-making for navigation.
+ 
+6. Research Gaps
+There are a few key research gaps that can be identified in the literature. First, many systems are tested in controlled environments, not in a real world environment. Secondly, smart wheelchairs can be costly due to the advanced sensors and computers. Thirdly, AI systems consume a lot of battery and processing power.
+Generative AI also poses a new safety issue. An LLM may be misled by an instruction or may make a wrong decision. Thus, the LLM should not be responsible for directly controlling the motors of the wheelchair.
+In addition, there are still no fully integrated systems that integrate computer vision, various sensors, autonomous navigation, various user controls and Generative AI within a safe system.
+
+7. Proposed Next-Generation AI Wheelchair
+
+Literature suggests multiple technologies should be incorporated into a future wheelchair.
+Information about the environment can be gathered through sensors like cameras, LiDAR, ultrasonic sensors and IMU.
+Computer vision and machine learning are able to detect persons, doors, stairs, walls, etc.
+Navigation AI can generate routes and navigate around obstacles.
+Generative AI can interpret what people say, like the example of navigating to the cafeteria with the command, “Take me to the cafeteria.”
+Lastly, a wheelchair ought to be under the control of an independent safety controller. If the AI tells the wheelchair to go forward, but there is something in its way, the safety system should stop the wheelchair.
+This makes it a safer structure:
+Generative AI → Understand user request
+Marks a route on the map
+Sensors → Understand environment
+To move safely: Safety controller
+8. Research Answer
+From the literature reviewed, AI can be applied to make smart wheelchairs more autonomous, enhance navigation capabilities and simplify user interaction with the wheelchair.
+The study indicates that the next generation wheelchair should not be reliant on a single technology of artificial intelligence. Rather, it needs to incorporate sensors, computer vision, machine learning, autonomous navigation and Generative AI.
+By enabling users to provide natural-language instructions, Generative AI can help to create a more natural interaction experience. It should be used primarily for broad understanding and planning purposes, however. The actual movement should be controlled by a separate navigation system and safety system.
+Thus, a multimodal AI smart wheelchair may offer safer navigation, simpler control, personalized assistance, and increased mobility independence for individuals with mobility challenges.
+ 
+
+9. References
+1.	Leaman, J., & La, H. M. (2017). A Comprehensive Review of Smart Wheelchairs: Past, Present and Future.
+2.	Nguyen, A. V., Nguyen, L. B., Su, S., & Nguyen, H. T. (2012). Development of a Bayesian Neural Network to Perform Obstacle Avoidance for an Intelligent Wheelchair.
+3.	An Intelligent Wheelchair Using Situation Awareness and Obstacle Detection. Procedia - Social and Behavioral Sciences (2013).
+4.	Wheelchair Navigation System for Disabled and Elderly People. Sensors (2016).
+5.	A Robotic Intelligent Wheelchair System Based on Obstacle Avoidance and Navigation Functions. Journal of Experimental & Theoretical Artificial Intelligence (2015).
+6.	Sahoo, S. K., & Choudhury, B. B. (2023). AI Advances in Wheelchair Navigation and Control: A Comprehensive Review.
+7.	Evolution and Emerging Trends in Intelligent Wheelchair Control: A Comprehensive Review. Machines (2026).
+8.	Gesture-Based Navigation of Smart Wheelchairs: A Review of Current Trends and Future Directions. Information (2026).
+9.	Simulation of an Autonomous Wheelchair Using Deep Reinforcement Learning, Large Language Model and Iris Tracking (2026).
+10.	Karki, S., Han, E., Mahmud, N., Bhunia, S., Femiani, J., & Raychoudhury, V. (2025). OmniAcc: Personalized Accessibility Assistant Using Generative AI.
+
